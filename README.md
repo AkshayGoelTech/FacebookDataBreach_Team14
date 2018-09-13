@@ -5,3 +5,5 @@ Github repository for the Big Data Solar Eclipse Text Summarization capstone cla
 Akshay Goel - akshay15@vt.edu
 
 Esther Robb - erobb@vt.edu
+
+April Fitzpatrick - afitz@vt.edu
