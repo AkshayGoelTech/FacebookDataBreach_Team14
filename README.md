@@ -8,6 +8,6 @@ Akshay Goel - akshay15@vt.edu
 
 Leah Hamilton - hleah@vt.edu
 
-Esther Robb - erobb@vt.edu
-
 Ramya Nandigam - ramyan@vt.edu
+
+Esther Robb - erobb@vt.edu
