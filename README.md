@@ -1,4 +1,4 @@
-# SolarEclipseSummarization_Team14
+# FacebookDataBreach_Team14 ~~SolarEclipseSummarization_Team14~~
 Github repository for the Big Data Solar Eclipse Text Summarization capstone class at Virginia Tech.
 
 ## Contributors:
