@@ -1,0 +1,661 @@
+~~~~~~~~~~ Cluster 0 ~~~~~~~~~~~~
+how blockchain will disrupt google, apple, amazon, and facebook
+q&a: is facebook collecting sms and phone call data from androids?
+firm: facebook 'bug' worse than reported; non-users also affected | zdnet
+how to find out if facebook has your call logs
+facebook will carry a health warning within five years
+facebook founder called trusting users dumb f*cks  the register
+how to prevent facebook from detecting your call data in the android system | professional technology
+facebook gathering phone call, text message data on android users [updated] - houstonchronicle.com
+facebook's mark zuckerberg busted on instant messenger: "people just submitted it... they trust me... dumb f%cks" | block cubed
+chaos monkeys: obscene fortune and random failure in silicon valley by antonio garca martnez
+facebook has been collecting android users' cell phone data for years | time
+we dont save android users data without permission  facebook | itpulse.com.ng
+how facebook made it easy to hack (our) minds  eudaimonia and co
+want to stop facebook from accessing your data without your permission? here is what you can do
+news release: facebook agrees to address privacy commissioners concerns - august 27, 2009 - office of the privacy commissioner of canada
+how facebook collected android call, text data for years
+what lies beneath: the things facebook knows go beyond user data | | the breaking news headlines
+tech journal: facebook secretly recording phone calls -- fb denies, users post evidence
+consumers, shareholders waste no time filing class action lawsuits against facebook, cambridge analytica over data mining
+locals unhappy after latest facebook privacy admissions | whec.com
+~~~~~~~~~~ Cluster 1 ~~~~~~~~~~~~
+zuckerberg to testify? facebook ceo likely to testify to congress in wake of cambridge analytica data breach scandal - cbs news
+facebook ceo among those invited to testify at u.s. senate hearing | reuters
+business model at risk following privacy scandal, facebook in hiring spree for washington lobbyists - the financial express
+christopher wylie says his predecessor was poisoned | time
+cambridge analytica 'whistleblower' claims election of trump prompted him to expose facebook data practices | breitbart
+amended legislation planned against online political interference
+mark zuckerberg to avoid questioning by british mps over data scandal - business insider
+senate judiciary wants to haul in tech execs over privacy concerns - business insider
+#deletefacebook trending as users fume over cambridge analytica data harvesting scandal  rt us news
+facebook rocked by data breach scandal as investigations loom
+facebook and its executives are getting destroyed after botching the handling of a massive data 'breach' - zentrade.online
+facebook: zuckerberg won't testify on cambridge analytica in u.k. | fortune
+facebooks zuckerberg to testify before u.s. congress on data scandal: source - the globe and mail
+cambridge analytica harvested data from millions of unsuspecting facebook users
+calls for facebook to testify to congress are growing louder  and bipartisan - the washington post
+mark zuckerberg is being summoned by a uk committee to testify on facebook's security issues - newscult
+facebook data scandal: u.k. government asks mark zuckerberg to explain catastrophic failure - national | world affairs 7
+uk tells mark zuckerberg to get his ass to london, accuses facebook officials of being 'misleading'
+facebook boss mark zuckerberg snubs mps' demands to face questions on cambridge analytica
+facebook knew of cambridge analytica user profile harvesting for 2 years, never acted - cbs news
+~~~~~~~~~~ Cluster 2 ~~~~~~~~~~~~
+breakfast briefing: facebook to give users more control over personal data | pr week
+facebook loses belgian privacy case, faces fine of up to $125 million | reuters
+facebooks response to data scandal has diminished trust  eu
+eu plans to pull free digital services under consumer protection rules  euractiv.com
+eu wants to know if facebook scandal also concerned data of eu citizens | latest technology news tips tricks
+facebook privacy failures and opportunities  cyber defense magazine
+commerzbank suspends ads on facebook after data leak | reuters
+security management daily
+facebook shuts down third-party advertiser access in wake of cambridge analytica scandal
+consumer watchdog may investigate if facebook data illegally used in australian elections | uk news | the guardian
+facebook is getting grilled in india as elections draw near
+commsmart global group - straight talking...: facebook - the social nightmare - responsibility, trust & admission on all fronts, society has gone to hell in a handbasket....
+european parliament calls zuckerberg to testify on data breach - teletrader.com
+european union lawmakers to investigate alleged misuse of facebook users' data
+facebook 'tracks all visitors, breaching eu law' | technology | the guardian
+govt issues notice to facebook regarding data leak, privacy breach concerns - newsmobile
+cambridge analytica and its dirty politics | rnz
+eu justice chief to discuss data leak with facebook, u.s. government | reuters
+facebook's mysterious hardware group is working on everything from ar to mind reading - here's what we know so far | business insider india
+obamas 2012 facebook campaign: political communication in the age of the like button: journal of information technology & politics: vol 12, no 2
+~~~~~~~~~~ Cluster 3 ~~~~~~~~~~~~
+facebook reveals updates for privacy settings - teletrader.com
+facebook announces overhaul of security and privacy settings in wake of cambridge analytica scandal - abcactionnews.com wfts-tv
+how to use facebook's new data privacy tools - nbc2 news
+facebook makes privacy settings easier to find
+nsa prism program taps in to user data of apple, google and others | us news | the guardian
+cambridge analytica data breach: facebook introduces new privacy tools amid call for #deletefacebook
+eu to levy three per cent turnover tax on uber, amazon, google, facebook and airbnb and other us tech giants
+facebook revamps privacy tools as tighter eu rules draw near | montreal gazette
+facebook revamps its privacy controls - world news gateway
+the cure proposed for facebook's ills is worse than the disease
+facebook makes privacy tools easier to find and use - techhnews
+facebook announces new steps to protect users privacy | sci-tech | thenews.com.pk |
+facebook revamps privacy tools as tighter eu rules draw near | nation / world | journalnow.com
+you must know about it
+facebook changes its privacy setting: what you need to know
+vigeo eiris downgrades facebooks scores relating to privacy rights - vigeo eiris
+facebook lite to launch in developed countries, including u.s | reuters
+facebook will make it easier for you to control your personal data  | wired
+facebook just made a batch of old promises on privacy - red team news
+facebook bans developers from using its data to make surveillance tools
+~~~~~~~~~~ Cluster 4 ~~~~~~~~~~~~
+how the obama campaign won the race for voter data - the washington post
+facebook uses secret police' to crack down on leakers - neowin
+how obama won the social media battle in the 2012 presidential campaign
+fraudsters are using facebook to spy on you, natwest bank warns
+whoa! obama campaign manager admits facebook sided with obama in 2012 and allowed massive data mining
+jim mccay, ava armstrong, russia heats up, stormy cools down, obama clones - america out loud
+how obama's data crunchers helped him win - cnn
+phishing scam  light on a dark mountain  medium
+no, a college id does not show barack obama was a foreign student at columbia university | politifact
+ex-facebook employee rips 'mark zuckerberg's secret police' used to prevent media leaks  - washington times
+liberal media didnt think data mining was so bad when obamas campaign did it  | fox news
+why are we only now talking about facebook and elections?
+why nobody complained when obama used facebook data - chicago tribune
+facebook favors for obama campaign may have been illegal: heritage foundation legal fellow | fox business
+arrests for offensive facebook and twitter posts soar in london | the independent
+un: facebook has turned into a beast in myanmar - bbc news
+obama campaign director reveals facebook allowed them to mine data
+friendlydb.com - social search engine free speech lives here
+'they'll squash you like a bug': how silicon valley keeps a lid on leakers | technology | the guardian
+facebook: the real presidential swing state - mit technology review
+~~~~~~~~~~ Cluster 5 ~~~~~~~~~~~~
+will mark zuckerberg be able to boldly fix facebook crisis? - one news page
+nothing found for  topnews tim cook addresses facebook privacy u s china relations at beijing event
+is it time for more adult supervision at facebook? - the new york times
+from the putnam county dog shelter facebook page:
+"dumb f--ks": julian assange reminds us what mark zuckerberg thinks of facebook users  true pundittrue pundit
+mark zuckerberg drops suits to force sale of hawaiian lands
+facebook boss mark zuckerberg eats dry toast in attempt to look human | metro news
+nothing found for  topnews facebook denies it collects call and sms data from phones without permission
+facebook ceo mark zuckerberg sues hawaiian families over kauai land
+nothing found for  topnews facebook suspends cambridge analytica the data analysis firm that worked on the trump campaign
+22 weird things you didn't know about mark zuckerberg
+everywhere you look you will see mark zuckerberg's face - daily squib
+friendly for facebook  apps bei google play
+when are your followers online? - the good oil
+mark zuckerberg's silence on cambridge analytica has done irreversible damage | wired
+bbc world service - the inquiry, how powerful is facebook's algorithm?
+facebook keeps up child porn, isis videos flagged by users
+universal basic income: a stubborn idea whose time has come | kgo-am
+child abusing predators are all over facebook and are trading videos of children being molested | walid shoebat
+facebook ceo mark zuckerberg's statements on privacy, 2003-2018
+~~~~~~~~~~ Cluster 6 ~~~~~~~~~~~~
+sens. klobuchar, kennedy call for hearing on facebook, google, twitter - zentrade.online
+why not to upload pictures to facebookscanmyphotos.com blog
+facebook buys data on users' offline habits for better ads
+facebook limiting information shared with data brokers  - wsj
+how to find the data youve shared on facebook and protect it in the future
+facebook shares slide after reports of data misuse
+why nobody (not even congress) can tell mark zuckerberg what to do at facebook
+mark zuckerberg is no james madison - wsj
+this data breach affected 880,000 people (and it has nothing to do with facebook) - marketwatch
+corporate surveillance in everyday life
+facebook rethinks in-region data center interconnection | data center knowledge
+facebook has been collecting all your data, heres how you can check it | delhi nyoooz
+heres what facebook knows about you, and how to download all your data | 9to5mac
+facebook shares slide amid privacy backlash | super news update
+facebook shutting down third-party ad targeting tool -axios
+facebook will cut off access to third party data for ad targeting  techcrunch - blogmag | eq4c
+facebook ends partnerships with data brokers following cambridge analytica scandal
+us spy lab hopes to geotag every outdoor photo on social media | ars technica
+how to download a copy of everything facebook knows about you  nbc palm springs  news, weather, traffic, breaking news
+ice used private facebook data to find and track criminal suspect, internal emails show
+~~~~~~~~~~ Cluster 7 ~~~~~~~~~~~~
+ca political - ca political
+is it time for an ad free, subscription based version of facebook?  tech.pinions
+psychographics are just as important for marketers as demographics
+its time for better engagement metrics
+user data leaks at facebook pull tech further into political debate - india tides
+the guardian and facebook - a more social experience | help | the guardian
+opinion | cambridge analytica and the secret agenda of a facebook quiz - the new york times
+advertisers hurt with facebook but not breaking up - exchange4media
+how you can help track political ads on facebook :: wral.com
+in exposing facebook and cambridge analytica, the guardian shows why paywalls are essential  | linkedin
+facebook delays rumoured smart speaker amidst data privacy scandal
+facebook: facebook delays unveil of smart home-speaker amidst data breach scandal - the economic times
+this is serious: facebook begins its downward spiral | vanity fair
+facebook's express wi-fi offers internet access to developing countries | digital trends
+facebook only cares about facebook - the atlantic
+what cambridge analytica reveals about future political campaigns | observer
+facebook launches express wi-fi connectivity app | wi-fi now events
+guide for facebook marketing success - growthhackers
+inside facebook's hellish two yearsand mark zuckerberg's struggle to fix it all | wired
+how to fix facebook: make users pay for it - the washington post
+~~~~~~~~~~ Cluster 8 ~~~~~~~~~~~~
+cambridge analytica: state attorneys general send letter to facebook ceo mark zuckerberg - cbs news
+tim cook calls for regulations on facebook data leak
+facebook data theft exploited millions - the boston globe
+backlash against facebook for data 'breach' - power retail
+the joy of tech comic... a breach at facebook!
+the cambridge analytica data apocalypse was predicted in 2007 | wired
+tim cook on facebook's scandal: 'i wouldn't be in this situation'
+the latest: illinois county sues facebook for fraud
+yet another facebook debacle means its time for an apple social network  macdailynews - welcome home
+trump knows you better than you know yourself | antidote zine
+apple ceo: "privacy to us is a human right, a civil liberty" -axios
+facebook data scandal: how to download facebook data and information? - latest news line
+ikon internet giants : masters of the universe
+facebook botches response to cambridge analytica scandal [video]
+37 state attorneys general pounce on facebook
+what chief data officers can learn from facebook about better big data security  data protection news
+facebooks lapse in privacy protection - csmonitor.com
+37 state attorneys general call on facebook to answer questions about data scandal | breitbart
+trump and brexit campaigners exploited facebook hack
+shapiro, coalition of state ags demanding answers from facebook | times leader
+~~~~~~~~~~ Cluster 9 ~~~~~~~~~~~~
+a top senator investigating russian election interference is demanding answers from facebook's mark zuckerberg - zentrade.online
+facebook reviewing whether misused data still in hands of political consultant | reuters
+privacyschandaal komt facebook duur te staan | financieel | telegraaf.nl
+7 much scarier questions for zuckerberg  techcrunch
+facebook says sorry with uk newspaper ads as report finds it was warned of data risks in 2011 | the drum
+utterly horrifying: ex-facebook insider says covert data harvesting was routine
+the media today: facebook under fire following data-breach reports | plow
+krieger: the only reason we're examining facebook's sleazy behavior is because trump won | zero hedge
+facebook shares slide after reports of data misuse
+facebook faces lawmaker questions over election data misuse - slashgear
+insider trading activities at facebook inc  (fb)
+opinion | we cant trust facebook to regulate itself - the new york times
+facebook shares slide after reports of data misuse  truckingnews.us
+ftc confirms it's investigating facebook - zentrade.online
+more on facebook, cambridge analytica and our data - citizen cartwright
+facebook and mark zuckerberg need to come clean about 2016. now.
+facebook boss apologises in uk and us newspaper ads - bbc news
+facebook reviewing whether misused data still in hands of political consultant - tech news | the star online
+democratic senator asks zuckerberg about facebook data
+facebook apps may see more of your personal info than you want. here's how to turn them off - zentrade.online
+~~~~~~~~~~ Cluster 10 ~~~~~~~~~~~~
+blabbermouth podcast: gasping at our facebook data and digging the roseanne re-boot - blabbermouth - the stranger
+how the rise of ai is shaping the data center industry | 7wdata
+facebook scrutinized for its data sharing with cambridge analytica : npr
+church data is being scrutinised. now for facebooks files | letters | technology | the guardian
+facebook privacy scandal has a plus: thousands of new jobs ai can't do
+how facebook users are responding to the cambridge analytica scandal : npr
+facebook boosts mojo for hot atlanta data center market
+afrihost says security flaw solved | fin24
+forget data. free labor is facebook's lifeblood
+login with facebook in codeigniter - codexworld
+facebook confirms cambridge analytica stole its data; its a plot claims former director
+saturday musings: a right & a wrong way to fire staff - denyse whillier
+facebook faces scrutiny for pulling android call, text data  ny daily record
+i figured out a way to hack any of facebooks 2 billion accounts, and they paid me a $15,000 bounty
+world autism day, the loyola ramblers in the final four, facebooks controversy and whos trump firing next? | full show (march 26th) | chicago informer
+viberate contribution guide and rules  viberate blog  medium
+exploiting facebook data for stealing your friends digital identities
+massachusetts begins a probe into facebook, cambridge analytica  : npr
+facebook accelerates its data center expansion  data center frontier
+teacher posts salary on facebook, asks why she's paid so little even with a college degree
+~~~~~~~~~~ Cluster 11 ~~~~~~~~~~~~
+ipr interviews bugeja on facebook data breach  interpersonal divide in the age of the machine
+facebook to investigate handling of leaked data of 50 million american users to trump's consultants- technology news, firstpost
+facebook loses $us35b after massive data breach, tech stocks lead wall street sell-off - abc news (australian broadcasting corporation)
+facebook shares dip as u.s. regulator announces privacy probe - weekly xpos
+usdoes digital promise and facebook team up for student databadges.  missouri education watchdog
+import your data from facebook ads to ms sql server - blendo.co
+republican lawmaker faces backlash for comparing shooting survivors to hitler youth: youre done! | addicting info | the knowledge you crave
+a friendly reminder that instagram uses all your facebook data
+facebook launches audit of data leaked to trump consultant         |          pattydearie's blog
+facebook to audit cambridge analytica
+us probe into scandal hits facebook shares and mark zuckerberg  breaking news
+podesta emails showed facebook colluded with clinton, assange reminds  rt us news
+facebooks value drops $40b as stock tumbles over data scandal - national | world affairs 7
+73% of canadians to change facebook habits after data mining furor, survey suggests | cbc news
+facebook data breach: farhan akhtar deletes account. here are other celebs who quit platform - news18
+wikileaks - the podesta emails
+nearly 75% of canadian facebook users plan to change behaviour in wake of controversy - the globe and mail
+farhan akhtar deletes facebook account | wefornews | latest news, headlines, blogs
+sheryl sandberg should replace mark zuckerberg at facebook: calacanis
+facebook will audit cambridge analytica to see what facebook user data the firm still has | | the breaking news headlines
+~~~~~~~~~~ Cluster 12 ~~~~~~~~~~~~
+what a facebook exec's deleted cambridge analytica tweet says about twitter - cnet
+facebook security chief leaving company: report | thehill
+how facebook made its cambridge analytica data crisis even worse | tech | hindustan times
+facebook security chief to exit: report - biedex levert u bruikbare handelsideen op alle financile markten wereldwijd.
+pando: worried about facebook's coziness with trump? watch what alex stamos does next
+facebook's head of security alex stamos 'leaving over fake news' | daily mail online
+bannon oversaw cambridge analyticas collection of facebook data, according to former employee - the washington post
+greenground it - sfgate: facebook security chief said to leave amid internal clashes
+facebooks chief security officer "to leave in row over handling of russian disinformation campaign"         |          pattydearie's blog
+cambridge analytica used powerful algorithms to trawl through facebook user data, heres how they worked
+trump campaign mined facebook user data using israeli 'intelligence gathering' | the times of israel
+facebooks latest privacy debacle stirs up more regulatory interest from lawmakers - blogs - writeupcafe.com
+cambridge analytica whistleblower says company worked with corey lewandowski, steve bannon
+facebook's security chief stamos said to be leaving, shares under pressure | fox business
+facebook security chief alex stamos reportedly planning to leave - cnet
+mark zuckerberg lost $6 billion and his head of security in one day
+what is the cambridge analytica scandal? - video explainer | news | the guardian
+liberal ire at trump and cambridge analytica is misdirected from billionaires who own your data | black agenda report
+report: facebook information security head alex stamos is leaving -axios
+the cambridge analytica whistleblower wanted his new company to work with trump campaigns manager
+~~~~~~~~~~ Cluster 13 ~~~~~~~~~~~~
+the blessing / curse of big data  data driven investor  medium
+what is the cambridge analytica controversy regarding facebook data?  steptb blog
+the real scandal isnt cambridge analytica. its facebooks whole business model.
+control under surveillance capitalism: from benthams panopticon to zuckerbergs 'like' - political economy research centre
+the right way to fix facebook | cato institute
+facebook-cambridge analytica data row: political vision of politicians needs to be steered by people, not mathematical algorithms- technology news, firstpost
+facebook's cambridge analytica scandal is part of a bigger problem - the atlantic
+facebook used to scrape millions of people's personal data
+yellow hair versus pink hair? why you should care.
+facebook: is it time we all deleted our accounts? | technology | the guardian
+bagri bytes: mark zuckerberg must (let) go!
+ernst's economy for you: why i abolished my facebook account
+mark zuckerberg branded early facebook users dumb f***s for sharing their data with him
+zuckerberg must account for facebooks moral failure | thehill
+can mark zuckerberg fix facebook's mess?
+facebook and cambridge analytica: whats next? how about taking facebook private?
+want to connect and express yourself online? forget facebook--start your own website | inc.com
+facebook and google are doomed, george soros says - the washington post
+we need to nationalise google, facebook and amazon. heres why | nick srnicek | opinion | the guardian
+03/27/2018: what can the federal trade commission actually make facebook do?
+~~~~~~~~~~ Cluster 14 ~~~~~~~~~~~~
+trump consultants harvested data from 50 mil facebook users - japan today
+facebook: this is how mozilla is containing facebooks tracking of your data | gadgets now
+robert mercer - wikipedia
+trump dismisses significance of facebook ads, attacks crooked hillary clinton in tweets | solo ads, solo ads, free ads, advertisements gratis, classifieds ads, anonymous email, secured email, encrypted email, self destructive email, email security, email protection, email list, email spam, email hack, email leaks
+rally starter | hold facebook accountable for cambridge analytica data
+americans are less likely to trust facebook than rivals on personal data
+improving human rights through secure messaging - thinkmoult
+trump-linked data analysis firm taps 50m facebook profiles
+illinois most populous county files new suit over cambridge analyticas use of facebook data | 1 attorneys
+whatsapp, facebook to face eu data protection taskforce | zdnet
+facebook shares slide as u.s. regulator announces privacy probe - ittechafrica
+cook county sues facebook: it is the largest data-mining operation in
+mozilla takes advantage of facebook woes to trumpet isolationist firefox add-on - computerworld
+eu and u.s. castigate facebook on cambridge analytica scandal as citizens data privacy goes down the drain again  the european sting - critical news & insights on european politics, economy, foreign affairs, business & technology - europeansting.com
+pep boys suspends facebook ads after data security breach
+mozilla launches facebook container add-on to isolate your web browsing activity from facebook - crisp
+firefox users can now 'isolate their facebook identity' from the rest of the web
+eric schmidt played a crucial role in hillary clinton's election tech  quartz
+how cambridge analytica broke into the u.s. political market through mercer-allied conservative groups - the washington post
+a new firefox add-on limits facebook tracking
+~~~~~~~~~~ Cluster 15 ~~~~~~~~~~~~
+facebook to hold crisis meeting without zuckerberg
+how trump consultants exploited the facebook data of millions - the new york times
+a facebook employee is being investigated by the company due to possible connections to data firm attached to trump - newscult
+cambridge analytica used data from facebook and politico to help trump  one ctv
+facebook, cambridge analytica and the alleged 'data breach' - the daily pasban
+donald trumps data operations team was suspended by facebook for misusing peoples personal information - latest hacking news
+facebook suspends data analytics firm that worked for trump campaign |   
+senators demand answers from facebook over extraordinary data breach  joy105.com
+questions raised over cambridge analytica's use of facebook data | unian
+how cambridge analytica procured facebook data - livemint
+lawmakers demand answers from facebook after claim that analytics firm snatched user data for trump campaign  true pundittrue pundit
+50 million facebook users had private data stolen by a trump-affiliated firm - gallery of articles
+aggregateiq accused of using purloined facebook data to target us voters - gadgetrio.us
+dont think for one second that facebook is a victim in this whole cambridge analytica mess  bgr
+everything you need to know about the cambridge analytica-facebook debacle
+facebook bans trump-linked campaign data firm  iis organisation
+uk's may says she hopes facebook boss understands data leak concerns
+zuckerberg won't answer mp questions over data breach
+uk investigating cambridge analytica, facebook - zentrade.online
+facebook suspends trump election data firm for policy violations
+~~~~~~~~~~ Cluster 16 ~~~~~~~~~~~~
+ufx.com weekly trading review: cryptocurrencies fall, facebook security flaw
+facebook's easier to access privacy tools:   https://newsroom.fb.com/news/201...
+the overly social network  finimize
+as tech titans continue to face questions, facebook has likely peaked
+google users are finding that the search company may have more info on them than even facebook
+is #deletefacebook and cambridge analytica the end of facebook? is it too big to fail?  quartz
+as days pass by  federateduncertainty
+how to download your facebook data file
+mark zuckerberg is fighting to save facebook
+are you ready? this is all the data facebook and google have on you  the event chronicle
+mark zuckerberg is a global information autocrat
+if you thought facebooks data collection is scary, wait until you check your google account  bgr
+mark zuckerberg: give up facebook control - corporate governance
+mark zuckerberg is calling for regulation of social media to lock in facebooks position  ac2 news
+how to get a copy of the data facebook has on you | fox6now.com
+best of the blog: mark zuckerberg apologizes for data breach
+ethically challenged: facebook turns toxic for some esg funds as shares sink again  finance follow
+how to download archive of entire facebook data from the site | the indian express
+how to check what data (all details) of yours has facebook gathered till now. | tfortrends
+rivals chip away at googles and facebooks u.s. digital ad dominance, data show  - wsj
+~~~~~~~~~~ Cluster 17 ~~~~~~~~~~~~
+congress: whistleblower says cambridge analytica 'worked extensively' in india, names congress as client | india news - times of india
+facebook is in middle of big data scandal so why is ec working with it in india?
+u.s. state department has deal with u.k. data-miner involved in facebook controversy | the japan times
+how facebook ads helped elect trump - cbs news
+facebook executive rob goldman apologizes after russia tweets | wired
+facebook breach a sign canadian laws need revamp: privacy commissioner | cbc news
+facebook loses $37 billion in share value as the stock market reacts to a data sharing scandal - techzim
+revealed: facebook data harvester's links to us and uk counter-extremism campaigns | middle east eye
+facebook unfriends donald trump for stealing private data on millions of users
+fb data leak scam: cambridge analytica has regional office in odisha's cuttack  | odishasuntimes.com
+facebook manipulated 689,003 users' emotions for science
+to stir discord in 2016, russians turned most often to facebook - the new york times
+facebook data-mining scandal uncovers whistleblowers connection to b.c. - latest nigeria news
+cambridge analytica insider says it worked extensively in india, names congress - technology news
+facebook stock drops 7% over trump-linked data controversy
+russia didnt abuse facebookit simply used it as intended | wired
+playboy pulls out, deactivates its facebook page | zero hedge
+cambridge analytica's fossil fuel connections - motherboard
+facebook suspends political data firm used in trump campaign | nyc informer
+so, can we blame facebook for trump yet?  the trumplandia report
+~~~~~~~~~~ Cluster 18 ~~~~~~~~~~~~
+palantir and cambridge analytica: what do we know?  wikitribune
+here's how peter thiel is connected to the facebook ploy to elect trump
+facebook backlash to drive eu pressure on u.s. over data use  - marketwatch
+with friends like these ... tom hodgkinson on the politics of the people behind facebook | technology | the guardian
+zuckerberg's refusal to testify before uk mps 'absolutely astonishing' | technology | the guardian
+facebook, other tech giants scrutinized by congress over user data - wsj
+facebook data misuse scandal affects substantially more than 50m, claims wylie - profit agency
+what you need to know in advertising today - business insider
+advertisers to facebook: 'did i work with cambridge analytica?' - business insider
+facebook responds to disturbing data breach scandal | the drum
+facebook cut russia out of april report on election influence - wsj
+palantir worked with cambridge analytica on the facebook data: whistleblower
+facebook gains after announcing new privacy tools (fb)  redliontrader
+facebook suspends trump election data firm that accessed millions of user profiles  redliontrader
+facebook suspends data firm that helped trump campaign | business
+facebook fallout in focus as eu presses u.s. over data - wsj
+carolyn everson responds to cambridge analytica breach
+palantir worked with cambridge analytica on the facebook data it acquired | hacker news
+how peter thiels palantir helped the nsa spy on the whole world
+emails link peter thiel's palantir and eric schmidt's daughter to facebook's cambridge analytica fiasco | business insider
+~~~~~~~~~~ Cluster 19 ~~~~~~~~~~~~
+three users sue facebook over call, text data scraping | teen news 1
+facebook apologizes for data mining scandal in newspaper ads | cbc news
+the facebook breach makes it clear: data must be regulated | opinion | the guardian
+three users sued facebook for user data miss handling | learntechnician
+facebook sued for collecting call logs and text histories
+facebook being sued for potential misconduct in massive data breach - conservative daily news
+mark zuckerberg says sorry in full-page newspaper ads  - cnn
+in full-page ads, zuckerberg apologizes for facebook's failure to protect users' personal data
+facebook, cambridge analytica sued in u.s. by users over data harvesting | cbc news
+sorry seems to be the hardest word: mark zuckerberg's letter deconstructed by a copywriter | the drum
+mark zuckerberg says sorry for facebooks data privacy scandal - just my deal
+mark zuckerbergs apology in newspaper | roundup
+facebook says users cant stop it from using biometric data | financial post
+cambridge analytica harvested data of 50 million facebook users  nicebot news
+cambridge analytica and facebook accused of misleading mps over data breach - zentrade.online
+facebook users sue over collection of call, text history - cnet
+three facebook users sue over collection of call, text history
+zuckerberg apologizes for facebook data scandal
+facebook shareholder sues facebook after cambridge analytica scandal - stock watch indexstock watch index
+marketing day: facebook hiring lobbyists, google surveys goes global & springbot opens a customer data co-op - learn digital marketing
+~~~~~~~~~~ Cluster 20 ~~~~~~~~~~~~
+cnn - breaking news, latest news and videos
+cambridge analytica: uk data watchdog applies for warrant to search firm's servers as facebook told to 'stand down' its own probe | the independent
+how trump consultants exploited the facebook data of millions while facebook winked at b12 solipsism
+hots arrival | just another wordpress site
+dreamer shot man to death in road-rage incident, bragged about it on facebook  united states illegal alien crime report
+did cambridge analytica use facebook data to shape uhuruto campaign? - kenyan digest
+how cambridge analytica used facebook to get millions of u.s. voters personal data - techrepublic
+how facebook tried to quell backlash to data loss | ragan communications
+10 things you need to know today: march 18, 2018
+cambridge analytica harvested data from millions of unsuspecting facebook users
+how the trump campaign worked with a data firm accused of stealing facebook data
+trump may hire multiple cable news personalities as part of shake-up
+power, sex and data: a weekend of issues in the trump presidency (opinion) - cnn
+shakesville: we resist: day 424
+alton sterling arrest record, criminal history & rap sheet [documents] | heavy.com
+trump consultant behind massive facebook data leak | more newser news
+facebook's value slides by $36bn as data breach rocks shares - as it happened | business | the guardian
+trump-linked firm mined 50m facebook profiles
+mass. to investigate facebook, analytics firm tied to trump campaign - upi.com
+rick gates, trump campaign aide, pleads guilty in mueller inquiry and will cooperate - the new york times
+~~~~~~~~~~ Cluster 21 ~~~~~~~~~~~~
+ernst's economy for you: mark zuckerberg and the law of unintended consequences: when you are a (thought) leader, you lead by example... whether you want it or not. how to avoid becoming a propaganda tool?
+facebook ceo mark zuckerberg executive ethics | criticism | bohatala
+ted cruz campaign using firm that harvested data on millions of unwitting facebook users | us news | the guardian
+facebook fiasco: was cornell universitys study of emotional contagion a breach of ethics? | science | the guardian
+facebook ceo mark zuckerberg breaks his silence about data leak | blogdottv
+facebook's messenger app logs way more data than you realize
+mark zuckerberg apologizes for facebook data scandal, 'major breach of trust' | fox news
+apple ceo: more data oversight needed in wake of facebook scandal
+the cambridge analytica whistleblower, making the manchurian candidate?   | linkedin
+mark zuckerberg vows to 'fix' facebook - bbc news
+tech giants call for 'well crafted regulation' and clarity on personal data following facebook breach | the independent
+apple, ibm chiefs call for more oversight after facebook breach - insurance wikis
+facebook ends partner categories, limits how advertisers can target you - cnet
+facebook grilled by lawmakers over cambridge analytica revelations
+facebook knows literally everything about you  techcrunch
+deleting your account isn't enough to escape facebook
+facebook puts full-page apology ads in newspapers around the globe
+facebook girl paula asantewaa
+apple and ibm heads ask for facebook data clarity | itproportal
+senator ron wyden launches inquiry into facebooks data-sharing policy
+~~~~~~~~~~ Cluster 22 ~~~~~~~~~~~~
+federal trade commission investigation: is mark zuckerberg headed to facebook jail? #zuckerberg - tu.tv
+update: cambridge analytica in trouble for facebook data use on trump campaign | crooks and liars
+facebook one of the largest data breaches - vcm news
+new facebook-backed law would let foreign governments get your data without a warrant - linkis.com
+will mark zuckerberg be able to boldly fix facebook crisis? - worldnews.com
+expert says brexit campaign used data mined from facebook - worldnews.com
+(silicone valley, calif.) latest; uk privacy regulators seeking warrant for cambridge analytica after reports that they improperly obtained facebook data of 50-million users: just as the security chief alex stamos resigns, citing spread of disinformation: as denial and counter denial by all parties has started, as each tries to deflect the blame #acenewsdesk reports | ace news services
+bhima koregaon case: sc resumes hearing on 5 left activist
+"was just a jhappi, not rafale deal": navjot sidhu to defence minister
+geeks interrupted by 94.1fm 3wbc on apple podcasts
+watch the national for march 22, 2018  trump tariffs, facebook, barenaked ladies | citizen journalist tv
+facebook will make it easier for you to control your personal data the changes put all the privacy settings in a single place, instead of being spread out across nearly 20 different screens. https://ift.tt/2j2y71o  pradodesign
+kerala nun rape case: kerala cops interrogates bishop franco
+~~~~~~~~~~ Cluster 23 ~~~~~~~~~~~~
+heres why mark zuckerberg dumped $500m of facebook stock in february | observer
+fidelity loses $2bn from facebook share price fall
+facebook loses more than $116 billion in 10 days
+bank of america cuts facebook stock forecast for second time in 5 days
+facebook tweaks security settings after privacy fallout | wsb-tv
+americans less likely to trust facebook than rivals on personal data: reuters/ipsos poll | reuters
+citron blasts shopify, says changes to facebook data will 'annihilate' company's entrepreneurs
+bank of america cuts facebook stock forecast for second time in 5 days, this time for ftc data probe - financial consultant
+russia funded facebook and twitter investments through kushner investor | news | the guardian
+mark zuckerberg net worth: facebook stock price decreases | money
+mark zuckerbergs net worth drops more than $6 billion in a day as turmoil hits facebook stock  redliontrader
+do the math: facebook lost $1000 stock value for every profile cambridge analytica harvested - netopia netopia
+popular tech stocks like nvidia, twitter get smoked as investors fear tech backlash
+facebook shares stumble over reports of data breach - 10news.com kgtv-tv san diego
+dst to buy up to $100 million in facebook employee stock  techcrunch
+us stocks-wall st slides as facebook data issue pounds tech sector
+3 big data stocks to brave facebook-triggered tech backlash | investorplace
+mark zuckerberg quietly sells his facebook stock - your news wire
+yandex warns of oligarch takeover
+facebook took $35bn hit as zuckerberg sold shares before scandal broke
+~~~~~~~~~~ Cluster 24 ~~~~~~~~~~~~
+amazon shares slump after report that trump seeking ways to go after company | the seattle times
+marsha blackburn pushes for universal privacy standards after facebook data breach - washington times
+your facebook data archive won't really show everything facebook knows about you | plow
+facebook privacy debate is tip of the e-commerce iceberg, u.n. says | news | 1450 99.7 whtc
+congress moves to strike internet privacy rules from obama era - the new york times
+how amazons ad business could threaten google and facebook  - wsj
+facebook loses $40bn in share value over user data scandal | uk news | al jazeera
+exclusive: blackburn says pro-privacy 'browser act' gaining momentum in wake of data scandal | breitbart
+facebook changes privacy settings, but is it enough? [video]
+trump at 45% gets it when it comes to amazon, facebook and google.  no bull with raging robert. robert massimi. robert m massimi
+facebook privacy debate shows most countries not ready for digital economy  un  specimen-news.com
+login - march 28, 2018 - axios
+facebook to change privacy controls in wake of data scandal |   
+news from ireland | latest irish news | today fm
+tech today: trump vs amazon, facebook bounces back, waymo motors on - barron's
+lawmakers hope to use facebooks oil spill privacy mishap to usher in sweeping new laws - the washington post
+facebook must face tighter rules, tougher penalties: german minister | reuters
+president trump reportedly obsessed with regulating amazon, wants to clip jeff bezos wings  geekwire
+facebook's privacy practices are under investigation, ftc confirms | business news
+how to delete or deactivate your facebook account if youre worried about privacy
+~~~~~~~~~~ Cluster 25 ~~~~~~~~~~~~
+how to delete your facebook, twitter, instagram, and snapchat
+want to use facebook more securely? just follow these steps to stop unwanted data leaks
+online privacy guide: 19 actionable steps to remain anonymous
+how to prevent your facebook account from getting hacked
+facebook did nothing wrong - dzone web dev
+how to keep your data safe without having to #deletefacebook
+this one link is the only way to truly delete your facebook profile | it world canada news
+how to change facebook privacy settings and block app permissions - business insider
+software that tracks people on social media created by defence firm | world news | the guardian
+is leaving facebook the only way to protect your data? | deeplookers forum
+dave levinthal- facebook data & politics | wben 930am
+how to protect your privacy on facebook
+[update: new info on device] facebook delays smart speaker reveal due to heightened privacy concerns
+commentator michael caputo- politics and facebook data | wben 930am
+cambridge analytica whistleblower used same facebook dataset for own startup | hacker news
+the most important privacy tips for facebook | technoblogy
+individuals need to take some responsibility for their data privacy violations | android central
+there is 'good' data collection and then there's facebook, and you need to know the difference | android central
+how to permanently delete a facebook account: 14 steps - wikihow
+how to delete facebook: deactivating your account explained
+~~~~~~~~~~ Cluster 26 ~~~~~~~~~~~~
+trump-linked consultants harvested data from millions on facebook | | the breaking news headlines
+recode daily: facebook reels from the blowback to its user-data expose | | the breaking news headlines
+facebook starts forensic audit of ca data as uk privacy regulator steps in - telecompaper
+facebook plans all-staff meeting on cambridge analytica scandal
+facebook data scandal: canadian whistleblower was axed by liberals over data harvesting ideas | | the breaking news headlines
+facebook privacy overhaul lets users permanently delete their old posts and comments
+facebook faces federal trade commission privacy inquiry | | the breaking news headlines
+how to download and read all of the data facebook has on you
+facebooks stock structure gives mark zuckerberg a blank check  investors were ok with that, but the world cant afford to be - zentrade.online
+my cow game extracted your facebook data
+zuckerberg's ex-mentor mcnamee attacks facebook as 'toxic' - business insider
+the data machine: what facebook knows about you - and how it uses your information
+roger mcnamee: facebook is losing consumer trust
+the censorship of conservatives on the internet is approaching critical levels of bad
+roger mcnamee: i think you can make a legitimate case that facebook has become parasitic -
+the datapocalypse: why facebook's crisis is a turning point for privacy
+facebook plunges $30bn in value after cambridge analytica row
+can mark zuckerberg fix facebooks mess?  finance follow
+where is mark zuckerberg? silence amid facebooks data scandal is not
+facebook hot water with investors over cambridge analytica controversy
+~~~~~~~~~~ Cluster 27 ~~~~~~~~~~~~
+stocks- facebook data leak, political uncertainty weighs on markets
+facebook has lost nearly $50 billion in market cap since the data scandal  true pundittrue pundit
+asian shares fall as facebook data flap spooks tech stocks  daily world
+wall street drops as regulation worry sinks tech shares | article [amp] | reuters
+all 30 dow stocks fall amid facebook-driven selloff - marketwatch
+asian markets take beating from facebook data breach | the malaysian insight
+facebook data scandal with cambridge analytica | tech shares plummet
+stock market falls on facebook, rate hike, trade war worries on monday.
+facebook stock ends monday down 7 percent after data breach report | thehill
+stocks are getting whacked as facebooks data breach roils the tech industry  redliontrader
+global tech shares tank on facebook chief executive mark zuckerbergs date with congress | london evening standard
+facebook shares down 7% after reports of data misuse
+ftse, dax, euro stoxx fall on march 28 as tech sell-off spreads - business insider
+wall street sinks on facebook data-leak scandal - biedex levert u bruikbare handelsideen op alle financile markten wereldwijd.
+twitters wings clipped as regulation threat rises and stock skids
+facebook stock decline knocks it out of s&p 500s big five - moneybeat - wsj
+facebook stock tanks after data breach report, shaving billions off companys market value  timely
+facebook's latest scandal knocked $40 billion off its market value
+dow tumbles 336 points as facebook data concerns drag on tech stocks | fox business
+us stocks-futures drop as fed caution, facebook data leak weighs | reuters
+~~~~~~~~~~ Cluster 28 ~~~~~~~~~~~~
+for the umpteenth time: social media's product is you! - theresurgent.com
+facebook reportedly tweaks data storage on upcoming video chat device
+pro-trump group hires carl higbie, who shared n-word laden post on facebook in 2014 - wiredfocus
+vcu sociology event
+stormy daniels to visit philly for performances at club risque this fall
+baby donald trump causes a stir in afghanistan - the peninsula qatar
+facebook's aloha video chat device for the home is running into privacy concerns - business insider
+new yorker podcasts newsletter
+robert gergely md on linkedin: "to all of you who are "outraged" about facebook dealings. where is the outrage about #epic #cerner and all of them
+baby donald trump causes a stir in afghanistan
+pro-trump group hires carl higbie, who shared n-word laden post on facebook in 2014 - cnnpolitics
+slavery in libya a surprise? you weren't reading black agenda report | black agenda report
+amid uproar, facebook considers privacy safeguards for smart-home devices  the information
+we assumed you knew we were selling your data, says facebook
+tom bartel's answer to did cambridge analytica cross the line and violate our privacy; or is our facebook data a fair game to be weaponized against us? - quora
+~~~~~~~~~~ Cluster 29 ~~~~~~~~~~~~
+mozilla presses pause on facebook advertising - the mozilla blog
+what your facebook privacy settings mean -- and why you should care
+data shows you didnt #deletefacebook, so make sure to change these settings
+facebook's latest data scandal is just the beginning and not even the worst of it, warn privacy experts | the independent
+tuesday morning spice    2oceansvibe.com
+why (almost) everything reported about the cambridge analytica facebook hacking controversy is
+what data did cambridge analytica have access to from facebook? - business insider
+data is new form of currency for free service providers - akash talole
+answer to did cambridge analytica cross the line and violate our privacy; or is our facebook data a fair game to be weaponized against us? - quora
+what does facebook selling your data mean for privacy?
+facebook's zuckerberg to testify before u.s. congress: source
+cambridge analytica and the dangers of facebook data-harvesting - the atlantic
+how to stop third-party apps from using your facebook data and protect your privacy | imore
+consumers deserve to know.
+mozilla foundation - facebook
+what to communicate about facebook | sans security awareness
+how to opt out of facebook's platform data sharing | | the breaking news headlines
+securing facebook: keep your data safe with these privacy settings | zdnet
+its not just cambridge analytica, facebook, & trumpthe whole web is stalking you
+she cant even! alyssa milano freaks out that facebook collects her data, musta missed it under obama  twitchy.com
+~~~~~~~~~~ Cluster 30 ~~~~~~~~~~~~
+'cambridge analytica harvested data of 50 million facebook users' |  news | al jazeera
+facebook bans trump campaigns data analytics firm for taking user data
+self-described whistleblower suspended by facebook after cambridge analytica reports | thehill
+information commissioner launches inquiry into misuse of personal data by political campaigns | the independent
+mark zuckerberg brands facebook users dumb f***s | daily mail online
+facebook suspends trump-linked firm cambridge analytica
+norwegian minister faces no-confidence vote after terrorism post | world news | the guardian
+cambridge analytica: the firm that stole data from facebook to predict, influence voters outcome | world news | hindustan times
+british courts may unlock secrets of how trump campaign profiled us voters | technology | the guardian
+cambridge analytica execs caught discussing extortion and fake news | wired
+cambridge analytica saga raises questions about facebook and app makers - cnet
+facebook suspends company that allegedly helped trump win in 2016
+facebook bans trump campaign data firm cambridge analytica for violating user privacy - shredoftruth.com
+facebook suspends us president donald trump-linked data analysis firm - the financial express
+facebook knew illicit profile breach for 2 years, didnt tell users | daily mail online
+massachusetts ag healey launches investigation into facebook, cambridge analytica  - necn
+facebook bans trump campaigns data analytics firm for taking user data  twin cities
+facebook loses control of 50 million users data, suspends analytics firm  naked security
+facebook suspends trump campaign data firm cambridge analytica  kwezuenu blog
+factbox: who is cambridge analytica and what did it do? | reuters
+~~~~~~~~~~ Cluster 31 ~~~~~~~~~~~~
+ftc is investigating facebook over cambridge analytica
+under fire facebook now faces federal trade commission privacy inquiry - engage customer
+cnbc: facebook stock drops 5% after ftc announces it's probing data practices - news & guts media
+google, facebook, algorithms, and the building of the iron wall
+facebook's fake news: mark zuckerberg rejects 'crazy idea' that it swayed voters | technology | the guardian
+the ftc is now investigating facebook's privacy scandal - senator calls for mark zuckerberg to personally testify  scott fox & kat callaghan
+data leak: us federal trade commission confirms investigation of facebook | indiablooms - first portal on digital news management
+if facebook can't protect user data, california lawmakers may step in  quartz
+facebook facing class action lawsuit, potential $2 trillion in fines after cambridge analytica scandal  animeright news
+us ftc confirms that it is investigating facebook after the data leak of nearly 50 million users- technology news, firstpost
+ec, ftc probe facebook data breach - mobile world live
+facebook may have violated ftc privacy deal, say former federal officials, triggering risk of massive fines
+sheryl sandberg says facebook leadership should have spoken sooner, is open to regulation  techcrunch
+us consumer watchdog, state attorneys seek answers from facebook
+facebook stock plunges 5% after ftc confirms its investigating the companys privacy practices in wake of cambridge analytica scandal  redliontrader
+us federal trade commission to probe facebook for use of personal data  bloomberg citing source  rt us news
+theres officially a federal investigation into facebook. what could come of it?
+ftc, eu, state attorneys general investigating facebook breach
+ftc confirms probe into facebook data misuse scandal  techcrunch - blogmag | eq4c
+facebooks current woes exacerbated by six-year-old ftc settlement - marketwatch
+
